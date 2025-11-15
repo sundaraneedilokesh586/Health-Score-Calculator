@@ -1,4 +1,3 @@
-# Health-Score-Calculator
 <!DOCTYPE html>
 <html>
 <head>
